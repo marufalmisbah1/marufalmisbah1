@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Maruf Al Misbah! 👋
 
 ### 🌐 Web Developer | 🧑‍💻 Open Source Enthusiast | 🚀 Tech Explorer
 
@@ -16,10 +16,10 @@ Welcome to my GitHub profile! I'm passionate about building innovative web appli
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-- 🌱 **Currently Learning**: [New Framework/Technology] 🧩
-- 💼 **Working On**: [Your Current Project] 🔧
+- 🌱 **Currently Learning**: HTML,CSS,JavaScript ect. 🧩
+- 💼 **Working On**: CSS Project 🔧
 - 💬 **Ask Me About**: JavaScript, React, CSS Tricks, or anything tech-related! 💡
-- 📫 **How to reach me**: [Your Email] | [Your LinkedIn] 📬
+- 📫 **How to reach me**: marufalmisbah2002@gmail.com | @marufalmisbah 📬
 
 ---
 
